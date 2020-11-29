@@ -6,7 +6,7 @@ Esta aplicação gerencia as notas de alunos e possui todas as operações de CR
 
 No seu diretório de preferência, digite o comando:
 ```sh
-git clone
+git clone https://github.com/lucasbaquinoo/trabalhocc.git
 ```
 
 ### Back end
